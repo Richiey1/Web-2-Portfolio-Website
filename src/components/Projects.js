@@ -12,11 +12,11 @@ const projects = [
   },
   {
     id: 2,
-    title: 'Linkedin Website',
-    description: 'A fully responsive Linkedin platform with Feedpost, Profile, comments and likes.',
-    techStack: ['React', 'Node.js', 'TailwindCSS'],
-    githubLink: 'https://github.com/Richiey1/Assignment-Linkedin',
-    liveDemo: 'https://web-2-advance-project-b9vj.vercel.app/',
+    title:  'E-Commerce Website',
+    description: 'A fully responsive e-commerce platform with payment gateway integration.',
+    techStack: ['React', 'Redux', 'Stripe API'],
+    githubLink: 'https://github.com/Richiey1/Web-2-E-commerce-website',
+    liveDemo: 'https://web-2-e-commerce-website.vercel.app/',
   },
   {
     id: 3,
